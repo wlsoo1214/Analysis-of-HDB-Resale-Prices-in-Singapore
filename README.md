@@ -25,7 +25,7 @@ The dataset includes various attributes related to HDB flats, such as:
 - Block Number
 
 ## Methodology
-1. **Data Cleaning & Preprocessing**: 
+1. **Extract, Transform, Load (ETL) Process**: 
    - Handled missing values, standardized formats, and derived new features.
    
 2. **Exploratory Data Analysis (EDA)**:
